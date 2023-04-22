@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-You'll also need to create an cluster in mongodb atlas, and a secret code for password encryption and set it to process environment variables:
+You'll also need to create a cluster in mongodb atlas, and a secret code for password encryption and set it to process environment variables:
 
 ```
 process.env.MONGO_URL
